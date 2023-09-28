@@ -1,2 +1,2 @@
-# computer-vision
+# vislab
 from theory to code
