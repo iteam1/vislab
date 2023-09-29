@@ -1,5 +1,5 @@
 '''
-python3 utils/gen_mask.py
+python3 utils/gen_caro.py
 '''
 import cv2
 import numpy as np
